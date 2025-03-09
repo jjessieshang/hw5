@@ -1,0 +1,6 @@
+params,mean_train_score,mean_test_score
+"{'n_estimators': 150, 'max_depth': 10}",0.8663333333333332,0.8200476190476189
+"{'n_estimators': 300, 'max_depth': 10}",0.8668571428571429,0.8196666666666668
+"{'n_estimators': 250, 'max_depth': 20}",0.9611071428571428,0.8177142857142858
+"{'n_estimators': 50, 'max_depth': None}",0.9987380952380953,0.8161428571428571
+"{'n_estimators': 50, 'max_depth': 30}",0.9983690476190477,0.8147142857142857

@@ -1,0 +1,7 @@
+params,mean_train_score,mean_test_score
+"{'weights': 'uniform', 'n_neighbors': 11, 'metric': 'euclidean'}",0.8292619047619048,0.8107142857142856
+"{'weights': 'distance', 'n_neighbors': 9, 'metric': 'manhattan'}",0.9994999999999999,0.8078571428571428
+"{'weights': 'distance', 'n_neighbors': 7, 'metric': 'euclidean'}",0.9994999999999999,0.8019523809523809
+"{'weights': 'distance', 'n_neighbors': 7, 'metric': 'manhattan'}",0.9994999999999999,0.8013333333333333
+"{'weights': 'uniform', 'n_neighbors': 3, 'metric': 'euclidean'}",0.8680238095238094,0.7765238095238095
+"{'weights': 'distance', 'n_neighbors': 3, 'metric': 'euclidean'}",0.9994999999999999,0.7727619047619049
